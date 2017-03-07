@@ -1,2 +1,4 @@
  name: Sabin Maharjan
  markdown: kramdown
+
+theme: jekyll-theme-cayman
